@@ -1,11 +1,11 @@
 import classes from "./Basket.module.css";
-import Button from "../UI/Button";
-import SecondaryBtn from "../UI/SecondaryBtn";
+import Button from "../ui/Button";
+import SecondaryBtn from "../ui/SecondaryBtn";
 import { Fragment, useContext, useState } from "react";
 import CartContext from "../../store/cart-context";
 import BasketItem from "./BasketItem";
-import Input from "../UI/Input";
-import CheckoutForm from "../UI/Forms/Forms/CheckoutForm";
+import Input from "../ui/Input";
+import CheckoutForm from "../ui/Forms/Forms/CheckoutForm";
 import { ScrollRestoration } from "react-router-dom";
 
 function Basket() {

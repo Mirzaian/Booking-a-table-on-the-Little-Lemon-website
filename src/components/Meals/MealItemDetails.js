@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import CartContext from "../../store/cart-context";
-import SecondaryBtn from "../UI/SecondaryBtn";
+import SecondaryBtn from "../ui/SecondaryBtn";
 import classes from "./MealItemDetails.module.css";
 import MealItemForm from "./MealItemForm";
 import { BsArrowLeft } from "react-icons/bs";

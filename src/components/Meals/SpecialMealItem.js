@@ -1,7 +1,7 @@
 import { MdOutlineDeliveryDining } from "react-icons/md";
 import { Link } from "react-router-dom";
 import classes from "./SpecialMealItem.module.css";
-import Card from "../UI/Card";
+import Card from "../ui/Card";
 
 function SpecialMealItem(props) {
   return (

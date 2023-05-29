@@ -1,4 +1,4 @@
-import Star from "../UI/Star";
+import Star from "../ui/Star";
 
 function Rating({ rating }) {
   const stars = [];

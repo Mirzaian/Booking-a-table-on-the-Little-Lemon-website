@@ -1,5 +1,5 @@
 import FormPageBackground from "../components/Layout/FormPageBackground";
-import SignupForm from "../components/UI/Forms/Forms/SignupForm";
+import SignupForm from "../components/ui/Forms/Forms/SignupForm";
 
 function Signup() {
   return (

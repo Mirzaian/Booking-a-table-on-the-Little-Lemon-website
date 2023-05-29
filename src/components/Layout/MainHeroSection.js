@@ -1,7 +1,7 @@
 import classes from "./MainHeroSection.module.css";
 
 import HeroImg from "../../assets/restauranfood.jpg";
-import Button from "../UI/Button";
+import Button from "../ui/Button";
 
 function MainHeroSection() {
   return (

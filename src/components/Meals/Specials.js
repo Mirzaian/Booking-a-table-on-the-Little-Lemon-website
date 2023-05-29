@@ -1,7 +1,7 @@
 import { Link, useRouteLoaderData } from "react-router-dom";
 import SpecialMealsList from "./SpecailMealsList";
 import classes from "./Specials.module.css";
-import Button from "../UI/Button";
+import Button from "../ui/Button";
 
 function Specials() {
   const meals = useRouteLoaderData("root");

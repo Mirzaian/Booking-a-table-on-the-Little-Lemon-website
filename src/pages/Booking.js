@@ -1,5 +1,5 @@
 import FormPageBackground from "../components/Layout/FormPageBackground";
-import MakeBooking from "../components/UI/Forms/Forms/MakeBooking";
+import MakeBooking from "../components/ui/Forms/Forms/MakeBooking";
 
 function BookingPage() {
   return (

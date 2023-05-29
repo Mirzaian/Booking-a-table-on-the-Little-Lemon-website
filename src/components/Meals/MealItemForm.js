@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import Input from "../UI/Input";
+import Input from "../ui/Input";
 import classes from "./MealItemForm.module.css";
 
 function MealItemForm(props) {
